@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Find_Middle_Average_Array/1.0.0": {
+        "runtime": {
+          "Find_Middle_Average_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_Middle_Average_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

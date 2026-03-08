@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reverse_words_in_sentence/1.0.0": {
+        "runtime": {
+          "Reverse_words_in_sentence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reverse_words_in_sentence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

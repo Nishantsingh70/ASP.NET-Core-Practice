@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sum_of_digits_in_numbers/1.0.0": {
+        "runtime": {
+          "Sum_of_digits_in_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_of_digits_in_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

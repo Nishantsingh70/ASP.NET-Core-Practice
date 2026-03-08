@@ -1,0 +1,7 @@
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\UAT_Publish_Testing_MVC_APP.exe
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\UAT_Publish_Testing_MVC_APP.dll
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\UAT_Publish_Testing_MVC_APP.deps.json
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\UAT_Publish_Testing_MVC_APP.runtimeconfig.json
+C:\Users\Nishant Singh\Downloads\ASP.NET Core Practice\UAT_Publish_Testing_MVC_APP\bin\Release\net8.0\publish\UAT_Publish_Testing_MVC_APP.pdb
